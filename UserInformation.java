@@ -2,9 +2,6 @@ package co.shrey.fireapp;
 
 import java.io.Serializable;
 
-/**
- * Created by shrey on 01-06-2018.
- */
 
 public class UserInformation implements Serializable {
     private String name;
